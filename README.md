@@ -1,5 +1,5 @@
 # first-repo
-+ create item list:
+create item list:
 + first item
 + second item
 + third
